@@ -11,7 +11,7 @@ This README provides step-by-step instructions to set up and run ComfyUI with In
 
 1. **Create a Conda environment**
    ```bash
-   conda create -n ComfyUI python=3.11
+   conda create -n ComfyUI python=3.11 -y
    conda activate ComfyUI
    ```
 
